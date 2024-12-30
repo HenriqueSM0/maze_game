@@ -3,8 +3,11 @@ Playing instructions :
 Moving :
 
 w + enter = UP
+
 s + enter = DOWN
+
 a + enter = LEFT
+
 d + enter = RIGHT
 
 Placing a Bomb :
